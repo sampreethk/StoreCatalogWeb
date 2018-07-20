@@ -8,7 +8,7 @@ Used below technologies
 5. Bootstrap
 
 
-this has ben built on tomcat 8.5 and java 8
+this has been built on tomcat 8.5 and java 8
 
 use the blow url:
 
