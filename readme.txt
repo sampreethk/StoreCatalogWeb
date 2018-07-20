@@ -13,3 +13,5 @@ this has ben built on tomcat 8.5 and java 8
 use the blow url:
 
 http://localhost:8080/storecatalog/login.do
+
+
